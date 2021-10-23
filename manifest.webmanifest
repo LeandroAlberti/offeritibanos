@@ -1,0 +1,16 @@
+{
+	"name": "Offeritibanos",
+	"short_name": "Offeritibanos",
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "black",
+	"theme_color": "black",
+	"description": "Ofertas dos mercados da cidade de Curitibanos.",
+	"icons": [
+		{
+			"src": "images/logo.png",
+			"type": "image/png",
+			"sizes": "626x626"
+		}
+	]
+}

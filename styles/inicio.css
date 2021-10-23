@@ -1,0 +1,26 @@
+.inicio>#cabecalho {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--CorFundo2);
+    padding: 10px 0px;
+}
+
+.inicio>#cabecalho>img {
+    border-radius: 8px;
+    width: 50px;
+    margin-right: 10px;
+}
+
+.inicio>#cabecalho>h1 {
+    text-align: center;
+}
+
+.inicio>#buscaProdutos::placeholder {
+    color: white;
+}
+
+.inicio>#listaSetores {
+    overflow: auto;
+}
